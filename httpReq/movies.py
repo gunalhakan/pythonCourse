@@ -29,6 +29,7 @@ while True:
             for movie in movies['results']:
                 print(movie['title'])
                 print("-"*50)
+                
         elif secim == "2":
             keyword = input("Keyword : ")
             movies = movieApi.getSearchResult(keyword)
