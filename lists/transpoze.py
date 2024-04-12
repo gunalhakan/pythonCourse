@@ -1,3 +1,5 @@
+# Bir matriste bulunan elemanların satır ve sütun numaraların dönüşümüne transpoze denir.
+# 2 boyutlu bir liste ile matris oluşturun ve transpozuna dönüştürün. 
 liste = [[1, 2, 3], [4, 5, 6], [7, 8, 9],[17, 18, 19]]
 transpoze = []
 for i in range(len(liste[0])):
