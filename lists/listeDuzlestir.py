@@ -1,3 +1,4 @@
+# 2 boyutlu bir liste oluşturun ve bu listeyi tek boyutlu bir listeye dönüştürün
 liste = [[1, 2, 3], [4, 5, 6], [7, 8, 9, 10]]
 duzListe = []
 gecici = [liste]
