@@ -18,6 +18,8 @@ print(sonuc3)
 def myFunc(n):
     print()
     return lambda x : x * n
-multi2 = myFunc(2)
-sonuc4 = multi2(10)
+
+multi2 = myFunc(2) # myFunct fonksiyonuna giden değer yani n değeri
+sonuc4 = multi2(10) # lambda ya giden değer yani x değeri 
+
 print(sonuc4)
