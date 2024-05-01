@@ -1,6 +1,9 @@
 # 1-  "Samsung S5,Samsung S6,Samsung S7,Samsung S8" elemanlarına sahip bir liste oluşturunuz.
 telefonlar = ["Samsung S5","Samsung S6","Samsung S7","Samsung S8"]
-
+if "Samsung S5" in telefonlar:
+    print("var")
+else :
+    print("yok")
 # 2-  Liste Kaç elemanlıdır ?
 # print(len(telefonlar))
 
@@ -38,11 +41,11 @@ telefonlar = ["Samsung S5","Samsung S6","Samsung S7","Samsung S8"]
     # kullaniciA: Yiğit Bilgi 2010, (70,60,70)
     # kullaniciB: Sena Turan  1999, (80,80,70)
     # kullaniciC: Ahmet Turan 1998, (80,70,90) 
-kullaniciA = ["Yiğit", "Bilgi", 2010, [50,60,70]]
-kullaniciB = ["Sena", "Turan", 1999, [80,90,100]]
-kullaniciC = ["Ahmet", "Turan", 1998, [80,70,90]]
+# kullaniciA = ["Yiğit", "Bilgi", 2010, [50,60,70]]
+# kullaniciB = ["Sena", "Turan", 1999, [80,90,100]]
+# kullaniciC = ["Ahmet", "Turan", 1998, [80,70,90]]
 
-kullanicilar = [kullaniciA,kullaniciB,kullaniciC]
+# kullanicilar = [kullaniciA,kullaniciB,kullaniciC]
 # print(kullanicilar)
 # 13- Yukarıdaki Liste elemanlarını ekrana yazdırınız.
 
@@ -50,10 +53,10 @@ kullanicilar = [kullaniciA,kullaniciB,kullaniciC]
 #     for bilgi in kullanici:
 #         print(bilgi, end=" /")
 #     print()
-ortalama = 0
-for kullanici in kullanicilar :
-    ortalama = (kullanici[3][0] + kullanici[3][1] + kullanici[3][2] ) /3
-    print(f"ad : {kullanici[0]} - soyad : {kullanici[1]} - yaş : {2024-kullanici[2]} - notlar : {ortalama}"
-    )
+# ortalama = 0
+# for kullanici in kullanicilar :
+#     ortalama = (kullanici[3][0] + kullanici[3][1] + kullanici[3][2] ) /3
+#     print(f"ad : {kullanici[0]} - soyad : {kullanici[1]} - yaş : {2024-kullanici[2]} - notlar : {ortalama}"
+#     )
 
 # print(telefonlar)
