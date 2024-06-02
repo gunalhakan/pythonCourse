@@ -1,0 +1,12 @@
+{
+  "p1": {
+    "name": "Macbook M1 Air 13",
+    "price": 35000,
+    "id": "p1"
+  },
+  "p2": {
+    "name": "Macbook M2 Pro 13",
+    "price": 46000,
+    "id": "p2"
+  }
+}
