@@ -1,0 +1,16 @@
+{
+    "firstName": "Hakan",
+    "lastName": "Günal",
+    "hobbies": [
+      "spor",
+      "sinema"
+    ],
+    "age": 37,
+    "children": [
+      {
+        "firstName": "Nil",
+        "age": 9,
+        "hobbies":["müzik","spor","kitap"]
+      }
+    ]
+  }

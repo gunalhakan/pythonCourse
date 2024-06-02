@@ -1,0 +1,9 @@
+{
+  "urunAdi": "iphone 12",
+  "fiyat": 30000,
+  "satistami": true,
+  "kategoriler": [
+    "telefon",
+    "elektronik"
+  ]
+}

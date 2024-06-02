@@ -1,0 +1,30 @@
+{
+  "users": {
+    "gunalhakan": {
+      "firstName": "Hakan",
+      "lastName": "Günal"
+    },
+    "akfomc": {
+      "firstName": "Akif",
+      "lastName": "Özmercan"
+    },
+    "gencNeslihan": {
+      "firstName": "Neslihan",
+      "lastName": "Genç"
+    }
+  },
+  "products": {
+    "1": {
+      "productName": "IPhone 13",
+      "price": 35000
+    },
+    "2": {
+      "productName": "IPhone 14",
+      "price": 40000
+    },
+    "3": {
+      "productName": "IPhone 15",
+      "price": 45000
+    }
+  }
+}
