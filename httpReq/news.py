@@ -2,7 +2,7 @@ import requests
 
 headlineURL = "https://newsapi.org/v2/top-headlines"
 everythingURL = "https://newsapi.org/v2/everything"
-apiKey = "df48f174c04b4b64a01b0d7c1341f281"
+apiKey = "<API_KEY>"
 country = "tr"
 
 

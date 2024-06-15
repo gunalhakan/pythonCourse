@@ -1,7 +1,7 @@
 import requests
 
 url = "http://api.weatherapi.com/v1/current.json"
-apiKey = "5d6703c09b7647a8b9f183123241303"
+apiKey = "<API_KEY>"
 sehir = input("Durumunu görmek için şehir ismi girin: ")
 
 response = requests.get(url, params={
