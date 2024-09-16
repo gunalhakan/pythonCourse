@@ -1,0 +1,11 @@
+5- Mercedes
+4- BMW
+3- Ford
+2- Opel
+1- Toyota
+
+atoyoT -1
+lepO -2
+droF -3
+WMB -4
+sedecreM -5
